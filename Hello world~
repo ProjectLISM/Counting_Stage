@@ -1,0 +1,4 @@
+x='ABC'
+y='XYZ'
+
+print x + '=' + y;
